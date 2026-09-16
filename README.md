@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -97,6 +100,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
