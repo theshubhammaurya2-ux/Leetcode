@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -96,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
