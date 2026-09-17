@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0414-third-maximum-number) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
