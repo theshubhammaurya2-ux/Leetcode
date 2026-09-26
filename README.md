@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1051-height-checker](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1051-height-checker) |
 | [2094-finding-3-digit-even-numbers](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
