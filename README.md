@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0344-reverse-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
