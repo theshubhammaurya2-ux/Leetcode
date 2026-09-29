@@ -8,7 +8,7 @@ public:
                 ans.push_back(matrix[i][j]);
              }
         }
-        sort(ans.begin(),ans.end());
+    
         int n=ans.size();
          priority_queue<int>pq;
          for(int i=0;i<n;i++){
