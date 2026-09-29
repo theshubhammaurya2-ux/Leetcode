@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0414-third-maximum-number) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
