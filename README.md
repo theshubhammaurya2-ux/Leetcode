@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
