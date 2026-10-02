@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -319,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
