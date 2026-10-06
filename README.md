@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
