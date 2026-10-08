@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1051-height-checker) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1051-height-checker) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
