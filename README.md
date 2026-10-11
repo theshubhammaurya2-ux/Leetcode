@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2094-finding-3-digit-even-numbers](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -250,12 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Ternary Search
 |  |
 | ------- |
