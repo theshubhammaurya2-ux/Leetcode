@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0342-power-of-four) |
 | [2094-finding-3-digit-even-numbers](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Backtracking
