@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0389-find-the-difference) |
 | [1657-determine-if-two-strings-are-close](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2390-removing-stars-from-a-string) |
