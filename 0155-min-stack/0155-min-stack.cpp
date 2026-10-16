@@ -13,9 +13,16 @@ public:
         else{st.push(2*x-mn); mn=x;}
     }
     
+
     void pop() {
-          if(st.top()>=mn){st.pop();}
-        else{long long oldmin=2*mn-st.top(); mn=oldmin; st.pop();}
+        if (st.empty()) return;
+
+        long long t = st.top();
+        st.pop();
+
+        if (t < mn) {
+            mn = 2LL * mn - t;
+        }
     }
     
     int top() {
