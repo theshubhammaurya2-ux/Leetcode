@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0989-add-to-array-form-of-integer](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3875-construct-uniform-parity-array-i](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1051-height-checker) |
