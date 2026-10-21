@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2235-add-two-integers](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2235-add-two-integers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3875-construct-uniform-parity-array-i](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
