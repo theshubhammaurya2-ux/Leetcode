@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0877-stone-game](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -403,4 +406,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0202-happy-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
