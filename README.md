@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2235-add-two-integers](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3875-construct-uniform-parity-array-i](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/theshubhammaurya2-ux/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
