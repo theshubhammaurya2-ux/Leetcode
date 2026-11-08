@@ -1,22 +1,15 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        // two pass solution
         int n=nums.size();
-        int noz=0;
-        int noo=0;
-        int nt=0;
-        for (int i=0;i<n;i++){
-            if(nums[i]==0) noz++;
-            else if(nums[i]==1) noo++;
-            else nt++;
+        for(int i=1;i<n;i++){
+            int j=i-1;
+            int key=nums[i];
+            while(j>=0 && nums[j]>key){
+                nums[j+1]=nums[j];
+                j--;
+            }
+            nums[j+1]=key;
         }
-        //fill
-        for (int i=0;i<n;i++){
-            if(i<noz) nums[i]=0;
-            else if(i<(noz+noo)) nums[i]=1;
-            else nums[i]=2;
-        }
-          return;
     }
-  };
+};
